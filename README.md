@@ -1,2 +1,7 @@
-# Express_MongoDB_Rest_API_Tutorial
-This is express &amp; mongodb rest api tutorial for contact management app
+Blog post CRUD opertion by authorized user
+
+npm install
+
+node sever.js
+
+Run the API 
